@@ -11,4 +11,8 @@ class Methodm
 		 return result;
 	 }
 }
+<<<<<<< HEAD
 //helloworld
+=======
+//hello
+>>>>>>> b519a5264043c76f160249ed44beca9ed828af06
