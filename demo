@@ -1,4 +1,8 @@
 hello
 welcome to git hub repository
 hello world
+<<<<<<< Updated upstream
 welcome now
+=======
+
+>>>>>>> Stashed changes
